@@ -1,0 +1,4 @@
+name: ArmouredElytras
+version: '${version}'
+main: me.fakepumpkin7.armouredelytras.ArmouredElytras
+api-version: '1.20'
